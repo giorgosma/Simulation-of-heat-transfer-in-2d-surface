@@ -1,0 +1,27 @@
+- tasks: 4 
+- sqrt_tasks: 2, sqrt_tasks2: 2 
+- num_x: 160, num_y: 128
+
+-TASK: 3
+	-up: 1
+left: 2 		right: -1
+	down: -1
+
+-TASK: 2
+	-up: 0
+left: -1 		right: 3
+	down: -1
+
+-TASK: 0
+	-up: -1
+left: -1 		right: 1
+	down: 2
+
+-TASK: 1
+	-up: -1
+left: 0 		right: -1
+	down: 3
+-TASK: 0	TIME: 0.049707
+-TASK: 1	TIME: 0.049715
+-TASK: 2	TIME: 0.049707
+-TASK: 3	TIME: 0.049713
